@@ -41,7 +41,7 @@ The key difference I noticed is nomic-embed-text is an embedding tool that conve
 
 ## Building a Personal Knowledge Base
 
-In this step, I created a personal profile document, build a python script that loads, chunks, and stores my profile as embedddings. Embeddings are texts converted to vectors.
+In this step, I created a personal profile document, built a python script that loads, chunks, and stores my profile as embedddings. Embeddings are texts converted to vectors.
 
 
 ### Creating the profile document
@@ -84,5 +84,3 @@ In this project extension, I tested multi-user queries by first adding no user f
 ---
 **Project Link:** [View Project](http://learn.nextwork.org/projects/ai-devops-api)
 
-**Author:** Shreya Kulkarni
-**Email:** shreyakulkarni.pp@gmail.com
