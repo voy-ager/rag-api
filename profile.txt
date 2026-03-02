@@ -1,0 +1,11 @@
+My name is Shreya Kulkarni.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a AI Engineer.
+I'm especially interested in LLMs, automation, Machine Learning and how to use Agentic AI in everyday life..
+
+I have experience with Python, C++, Docker, JavaScript, Full-Stack development..
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy Dancing and Coding with AI.
+A fun fact about me is I can build production ready applications under high pressure with ease..
